@@ -3,7 +3,10 @@ Bouncer
 
 Particle Collision Simulation
 
-http://youtu.be/Gkf3Zgbh-wc
+Video: http://youtu.be/Gkf3Zgbh-wc
+
+Based off of the work of Robert Sedgewick and Kevin Wayne
+http://algs4.cs.princeton.edu/61event/
 
 To run: Download code, open the terminal and cd to the folder and run python main.py
 
