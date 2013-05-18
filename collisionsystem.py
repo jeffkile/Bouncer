@@ -12,8 +12,8 @@ class CollisionSystem(object):
         self.hz = 4.0 #number of redraw events per clock tick
         self.particles = [particle.Particle() for i in range(50)]
         self.pq = jeffsminpriorityqueue.JeffsMinPriorityQueue()
-        self.windowWidth = 600 
-        self.windowHeight = 480
+        self.windowWidth = 500 
+        self.windowHeight = 500
 
         #initalize drawing stuff
         self.root = Tk()
